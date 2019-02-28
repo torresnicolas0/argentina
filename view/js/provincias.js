@@ -17,6 +17,7 @@
  */
 
 var provincia_list = [
+   {value: 'Ciudad Autónoma de Buenos Aires'},
    {value: 'Buenos Aires'},
    {value: 'Catamarca'},
    {value: 'Chaco'},
